@@ -1,36 +1,16 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+title: "SiC MOSFET Compact Modeling"
+collection: publications
+permalink: /publication/2025-sic-mosfet
+date: 2025-06-01
+venue: 'PCIM Europe 2025'
+paperurl: 'https://doi.org/10.30420/566541313'
+citation: 'Anu Anna Koshy et al. (2025). SiC MOSFET Compact Modeling. PCIM Europe 2025.'
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+Peer-reviewed publication on SiC MOSFET compact modeling
+presented at PCIM Europe 2025.
 
-{% include base_path %}
+**Venue:** PCIM Europe 2025
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+**DOI:** [10.30420/566541313](https://doi.org/10.30420/566541313)
