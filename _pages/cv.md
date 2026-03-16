@@ -1,7 +1,4 @@
 ---
-[⬇ Download Full CV (PDF)](../CV_Anu_Anna_Koshy.pdf){: .btn .btn--info}
-
----
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -12,56 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[⬇ Download Full CV (PDF)](../CV_Anu_Anna_Koshy.pdf)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **M.Sc. Information and Communication Technology** — FAU Erlangen-Nuremberg, Germany (2022–2025) — Grade: 2.0
+* **B.Tech (Hons) Electronics and Communication Engineering** — College of Engineering, Chengannur, India (2017–2021) — Grade: 1.2 — Top 2% of candidates
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Work Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Research Assistant — Power Electronics & Power Semiconductors** — University of Rostock (Nov 2025–Present)
+* **Master Thesis Researcher — TDDB in 4H-SiC CMOS** — Fraunhofer IISB (Mar–Oct 2025)
+* **Analog / Power Semiconductor Product & Test Engineer** — Infineon Technologies (Feb 2023–Sep 2025)
+* **Research Intern** — Fraunhofer IISB (May–Jul 2024)
+* **Software Engineer** — Aspire Systems India (Jul 2021–Sep 2022)
+
+## Skills
+
+* **Signal Processing:** Digital & Statistical SP, Adaptive Filtering, STFT, Pattern Recognition
+* **Machine Learning:** ML for Signal Processing, Data-Driven Analysis, Classification
+* **Programming:** Python, MATLAB, C, C++, VBA
+* **PCB Design:** KiCad, Eagle, Mixed-Signal Design
+* **Simulation:** LTSpice, SIMetrix, PLECS
+* **Languages:** English (Business Fluent, IELTS C1) · German (Intermediate)
+
+## Publication
+
+* Anu Anna Koshy et al., *SiC MOSFET Compact Modeling*, PCIM Europe 2025. DOI: [10.30420/566541313](https://doi.org/10.30420/566541313)
