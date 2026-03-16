@@ -1,4 +1,7 @@
 ---
+[⬇ Download Full CV (PDF)](../CV_Anu_Anna_Koshy.pdf){: .btn .btn--info}
+
+---
 layout: archive
 title: "CV"
 permalink: /cv/
